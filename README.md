@@ -7,7 +7,7 @@ Alunos:
     
     Davi Rangel Oliveira, RA 114431 
     
-    Iury de S. Gonçalves, RA 109362
+    Iury de S. Gonçalves, RA 109362 -> https://github.com/iurysg
     
     Luiz Guilherme Botelho da Silva, RA 110250
     
